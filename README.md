@@ -14,7 +14,7 @@ To install and run this application, you have to first install the inquirer pack
 
 This is the link to the walkthrough video demonstrating the features and all of the seeded information from the database. In the video, you can see the user can get information from the database as well as update it and delete or make post requests.
 
-()
+(https://drive.google.com/file/d/1Qr2haIjwfehQSrZvAudRZme0EkpHG8vI/view)
 
 ## License
 
